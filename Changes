@@ -1,5 +1,11 @@
 Revision history for Perl extension Template::Plugin::Comma
 
+0.04  Tue Jan 25 09:47:34 JST 2005
+	* Fixed bug that commas will be inserted into the decimal
+	portion of a number run through the plugin.
+	http://rt.cpan.org/NoAuth/Bug.html?id=11061
+	(Thanks to Pete Krawczyk)
+
 0.03  Thu Nov 14 13:47:51 JST 2002
 	* Fixed memory leak due to Template::Plugin::Filter
 

@@ -5,3 +5,4 @@ README
 lib/Template/Plugin/Comma.pm
 t/00_compile.t
 t/01_comma.t
+META.yml                                 Module meta-data (added by MakeMaker)
